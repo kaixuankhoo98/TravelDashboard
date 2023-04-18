@@ -6,4 +6,4 @@ Also, since I take the SouthWestern Railway to work, it displays the status of t
 Currently being hosted [here](https://kaixuankhoo.com)!
 
 Here's a quick look at what it looks like (on a good day)
-[image](screenshot.png)
+![image](screenshot.png)
